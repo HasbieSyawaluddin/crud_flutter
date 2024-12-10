@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793952716460",
+    "project_id": "uas-platform-879c7",
+    "storage_bucket": "uas-platform-879c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793952716460:android:ba115b1e012af43f154109",
+        "android_client_info": {
+          "package_name": "com.example.app_mahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWBSZB7Kph1_m-bO25BApPxJ8wZpDhhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
